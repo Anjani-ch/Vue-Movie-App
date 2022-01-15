@@ -4,7 +4,6 @@ const path = require('path')
 
 const movieRoutes = require('./routes/api/movieRoutes.js')
 const tvShowRoutes = require('./routes/api/tvShowRoutes.js')
-const { join } = require('path')
 
 const app = express();
 
